@@ -13,6 +13,8 @@ body {
   border: 1px solid white;
   background-color: white;
   width: 80vh;
+  margin-left: auto;
+  margin-right: auto;
 }
 label {
   display: block;
@@ -44,6 +46,14 @@ textarea {
   background-color: #333;
   border: 1px solid white;
   border-radius: 3px;
-  width: 300px;
+  width: 50vh;
   height: 100px;
+  margin-left: 8px;
+}
+#submit{
+    width:300px;
+    display:block;
+    margin: auto;
+    background-color: antiquewhite;
+    font-size: 20px;
 }
