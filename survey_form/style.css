@@ -1,6 +1,7 @@
 body {
-  background-color: #050537dd;
-  color: black;
+  background-image: url("/survey-image.jpg");
+  opacity: 0.9;
+  height: 100%;
   width: 100%;
   font-family: Tahoma;
 }
