@@ -75,9 +75,13 @@ input[type="checkbox"]{
   background-color: ghostwhite;
 }
 #communication{
+  margin-bottom: auto;
   font-size: 20px;
-  padding: 2px;
-  margin-bottom: 2px;
+  margin-left5px;
+}
+#whatsapp-label, #twitter-label,#linkedin-label,#discord-label{
+  padding:5px;
+  font-size:18px;
 }
 textarea {
   background-color: #333;
