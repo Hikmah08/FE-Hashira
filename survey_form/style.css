@@ -32,7 +32,7 @@ label {
 #email,
 #number {
   display: block;
-  width: 250px;
+  width: 60%;
   height: 30px;
   border-radius: 3px;
   background-color: rgb(43, 29, 29);
@@ -67,7 +67,7 @@ input[type="checkbox"]{
   background-color: azure;
 }
 #dropdown {
-  margin-top: 5px;
+  margin-top: 10px;
   display: inline;
   margin-left: 10px;
   width:130px;
@@ -77,7 +77,7 @@ input[type="checkbox"]{
 #communication{
   margin-bottom: auto;
   font-size: 20px;
-  margin-left5px;
+  margin-left:5px;
 }
 #whatsapp-label, #twitter-label,#linkedin-label,#discord-label{
   padding:5px;
@@ -91,6 +91,7 @@ textarea {
   height: 50px;
   margin-left: 8px;
   padding: 20px;
+  margin-bottom: 20px;
 }
 #submit{
     width:60%;
