@@ -1,6 +1,6 @@
 body {
-  background-color: #333;
-  color: grey;
+  background-color: #050537dd;
+  color: black;
   width: 100%;
   font-family: Tahoma;
 }
@@ -17,8 +17,7 @@ body {
   text-align: center;
 }
 #container {
-  border: 1px solid white;
-  background-color: white;
+  background-color: lightblue;
   width: 80%;
   border-radius: 5px;
   margin-left: auto;
@@ -35,7 +34,7 @@ label {
   width: 60%;
   height: 30px;
   border-radius: 7px;
-  background-color: rgb(43, 29, 29);
+  background-color: #050537dd;
   margin-left:15px ;
 }
 #name-label,
@@ -87,7 +86,7 @@ input[type="checkbox"]{
   margin-left: 15px;
 }
 textarea {
-  background-color: #333;
+  background-color: #05033a;
   border: 1px solid white;
   border-radius: 3px;
   width: 60%;
@@ -103,7 +102,8 @@ textarea {
     width:60%;
     display:block;
     margin: auto;
-    background-color: antiquewhite;
+    background-color: #09127436;
     font-size: 20px;
     border-radius:5px;
+
 }
