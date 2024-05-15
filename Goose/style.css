@@ -1,6 +1,6 @@
 body{
     background-color: #ffffffea;
-    width: 90%;
+    width: 80%;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: 545;
 }
@@ -21,40 +21,44 @@ hr{
     margin-left: 70px;
     margin-right: 70px;
 }
+.container{
+    margin: auto;
+    width: 80%;
+}
 #restaurant{
     color:#cb1010;
     font-size: 20px;
-    margin-left:70px;
+    
     padding-top:2px;
     padding-bottom: 0px;
 }
 #restaurant-text{
     font-size:18px;
-    margin-left: 70px;
+    
     padding: 0px;
     line-height: 30px;
 }
 #catering{
     color:#cb1010;
     font-size: 20px;
-    margin-left:70px;
+    
     padding:2px;
 }
 #catering-text{
     font-size:18px;
-    margin-left: 70px;
+    
     padding: 0px;
     line-height: 30px;
 }
 #location{
     color:#cb1010;
     font-size: 20px;
-    margin-left:70px;
+    
     padding:2px;
 }
 #location-one,#time-one,#time-two{
     font-size:18px;
-    margin-left: 70px;
+    
     padding: 0px;
     line-height: 30px;
 }
