@@ -76,3 +76,52 @@ img{
     padding-bottom: 2%;
     border-radius: 12px;
 }
+@media (max-width:320px) {
+    header{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    #work{
+        width: fit-content;
+    }
+    #content{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    img{
+        width:80%;
+        display: flex;
+    }
+}
+@media (max-width:375px) {
+    #work{
+        width: fit-content;
+    }
+    #content{
+        display: flex;
+        flex-wrap: wrap;
+        width:70%;
+    }
+    img{
+        display: inline;
+        width: 70%;;
+    }
+}
+@media (max-width:425px) {
+    header{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    #work{
+        width: fit-content;
+    }
+    .text-area{
+        display: flex;
+        flex-wrap: wrap;
+        width: fit-content;
+    }
+    img{
+        width:62%;
+       
+    }
+}
